@@ -79,12 +79,12 @@
 <footer>
     <p><strong>Sources et bibliographie :</strong></p>
     <ul class="source-list">
-<li>Mondes Occitanica : Enquêtes ethnographiques sur la bourrée en France et en Aquitaine.</li>
-<li>Ligue Auvergnate : Archives historiques, Mémoires de Fléchier (1665) et écrits de George Sand.</li>
-<li>Patrimoine Vivant de la France : Études sur l'évolution des instruments et de la danse auvergnate.</li>
-<li>Yves Guilcher : "La danse traditionnelle en France : d'une ancienne civilisation paysanne à un loisir revivaliste" (2001).</li>
-<li>Encyclopédie de Diderot et d'Alembert : Définition de la bourrée par Louis de Cahusac.</li>
+<li><a href="https://mondes.occitanica.eu/explorer/les-arts/danses/bourrees">Mondes Occitanica :</a> Enquêtes ethnographiques sur la bourrée en France et en Aquitaine.</li>
+<li><a href="https://www.ligue-auvergnate.com/Ligue Auvergnate">Ligue Auvergnate :</a> Archives historiques, Mémoires de Fléchier (1665) et écrits de George Sand.</li>
+<li><a href="http://www.patrimoinevivantdelafrance.fr/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=22&cntnt01returnid=28">Patrimoine Vivant de la France :</a> Études sur l'évolution des instruments et de la danse auvergnate.</li>
+<li><a href="https://journals.openedition.org/ethnomusicologie/870">Yves Guilcher :</a> "La danse traditionnelle en France : d'une ancienne civilisation paysanne à un loisir revivaliste" (2001).</li>
+<li><a href="https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURR%C3%89E">Encyclopédie de Diderot et d'Alembert :</a> Définition de la bourrée par Louis de Cahusac.</li>
     </ul>
-</footer>
+</footer> 
 
 
