@@ -1,7 +1,5 @@
 <h1>La Bourrée : Voyage au Cœur d'une Tradition Chorégraphique Millénaire</h1>
-    <p>
-Élément indissociable du patrimoine français, la bourrée est une danse aux multiples visages. Des salons feutrés de Louis XIII aux places de villages du Massif Central, elle a traversé les siècles sans perdre sa vigueur. Découvrez l'histoire et les secrets de ce pilier de la culture occitane.
-    </p>
+<p>Élément indissociable du patrimoine français, la bourrée est une danse aux multiples visages. Des salons feutrés de Louis XIII aux places de villages du Massif Central, elle a traversé les siècles sans perdre sa vigueur. Découvrez l'histoire et les secrets de ce pilier de la culture occitane.</p>
 
 <main>
 <section>
